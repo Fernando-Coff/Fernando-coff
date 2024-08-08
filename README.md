@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi
+
+###### About Fernando Coff
+
+Aspiring Software Engineer | Eager to Learn and Grow in the Tech Industry
+
+I am a dedicated Software Engineering student with a passion for technology and innovation. Currently pursuing my degree, I am keen to gain practical experience and apply my knowledge in real-world settings. My coursework has provided me with a solid foundation in programming, software development, and problem-solving, and I am excited to take the next step in my career.
+
+I am actively seeking internship or entry-level opportunities where I can contribute, learn, and grow within a dynamic team. My goal is to develop my skills further, gain valuable industry experience, and make a meaningful impact through my work.
+
+Key Skills:
+- Proficient in languages such as Java Script, Python, and C#
+- Understanding of software development life cycle and agile methodologies
+- Strong analytical and problem-solving abilities
+- Team player with excellent communication skills
+- Eager to learn new technologies and tools
+
+If you are looking for a motivated and enthusiastic individual to join your team, I would love to connect and discuss how I can contribute to your organization.
 
 
-**Fernando-Coff/Fernando-coff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
