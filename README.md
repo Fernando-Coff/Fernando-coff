@@ -17,5 +17,22 @@ Key Skills:
 
 If you are looking for a motivated and enthusiastic individual to join your team, I would love to connect and discuss how I can contribute to your organization.
 
+### Details
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=fernando-coff&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Projects
+
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=fernando-coff&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Languages
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=fernando-coff&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+### Contct
+
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/luiz-fernando-52188230b/)
+
 
 
