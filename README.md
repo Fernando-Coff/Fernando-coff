@@ -32,7 +32,7 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Contct
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/luiz-fernando-52188230b/)
+[<img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/luiz-fernando-52188230b/)
 
 
 
