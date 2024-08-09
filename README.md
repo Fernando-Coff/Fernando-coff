@@ -29,9 +29,8 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Coff&show_icons=true&theme=dark&layout=compact)
 
-### Contact
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/luiz-fernando-52188230b/)
+
 
 
 
