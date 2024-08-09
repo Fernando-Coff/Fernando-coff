@@ -23,12 +23,11 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Projects
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ### Languages
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Coff&layout=compact)
 
 ### Contct
 
