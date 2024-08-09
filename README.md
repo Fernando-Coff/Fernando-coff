@@ -19,7 +19,7 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Details
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Coff&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Coff&show_icons=true&theme=dark)
 
 ### Projects
 
