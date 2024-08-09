@@ -19,20 +19,20 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Details
 
-[![GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Fernando-coff&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Fernando-Coff&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projects
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=fernando-coff&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Fernando-Coff&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Languages
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Fernando-coff&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Fernando-Coff&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
 ### Contct
 
-[<img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/luiz-fernando-52188230b/)
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/luiz-fernando-52188230b/)
 
 
 
