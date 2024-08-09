@@ -19,15 +19,15 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Details
 
-[![GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Fernando-Coff&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Fernando-coff&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projects
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Fernando-Coff&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
 
 ### Languages
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Fernando-Coff&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
 
 
 ### Contct
