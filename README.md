@@ -23,7 +23,7 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Coff&repo=Wellcome-ms)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Coff&repo=Wellcome-ms&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
