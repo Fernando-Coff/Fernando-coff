@@ -19,11 +19,11 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Details
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Coff)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Coff&show_icons=true&theme=gradient)
 
 ### Projects
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/https://github.com/Fernando-Coff/Wellcome-ms)](https://github.com/Fernando-Coff/Wellcome-ms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Coff&repo=Wellcome-ms)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
