@@ -23,7 +23,7 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/Fernando-Coff/Wellcome-ms)
 
 ### Languages
 
