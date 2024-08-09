@@ -27,7 +27,7 @@ If you are looking for a motivated and enthusiastic individual to join your team
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Coff&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Coff&show_icons=true&theme=dark)
 
 ### Contct
 
