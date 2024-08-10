@@ -9,7 +9,7 @@ I am a dedicated Software Engineering student with a passion for technology and 
 I am actively seeking internship or entry-level opportunities where I can contribute, learn, and grow within a dynamic team. My goal is to develop my skills further, gain valuable industry experience, and make a meaningful impact through my work.
 
 Key Skills:
-- Proficient in languages such as Java Script, Python, and C#
+- Proficient in languages such as Java Script and Python
 - Understanding of software development life cycle and agile methodologies
 - Strong analytical and problem-solving abilities
 - Team player with excellent communication skills
